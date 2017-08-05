@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Urbansaurus",
+  "version": "0.1.0",
+  "description": "Urban Definations within Google",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["jquery-3.2.1.min.js", "content.js"],
+    "matches": ["https://google.com/*", "https://www.google.co.in/*"]
+  }]
+ 
+}
