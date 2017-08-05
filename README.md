@@ -10,6 +10,11 @@ To install, Download zip > Chrome Settings > Extensions > Enable Developer Mode 
 
 Soon to be on the chrome webstore.
 
+## Todo
+- Make it work only with the `define` keyword
+- Make it fit along with chrome's other cards
+- Make it fit into chrome's dictionary card
+
 Interested? Want to Collaborate?
 
 email: redify@jajoosam.tech
