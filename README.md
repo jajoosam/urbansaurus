@@ -2,9 +2,7 @@
 
 ![terminator orpheus](icon.png)
 
-Urbansaurus is a chrome extension I'm building that adds a urban dictionary widget to google pages with a query of 
-
-`define {word}`
+Urbansaurus is a chrome extension I'm building that adds a urban dictionary widget to google search pages.
 
 ![screenshot](screenshot.png)
 
