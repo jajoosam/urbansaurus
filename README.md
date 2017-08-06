@@ -1,6 +1,6 @@
 # Urbansaurus
 
-![terminator orpheus][icon.png]
+![terminator orpheus](icon.png)
 
 Urbansaurus is a chrome extension I'm building that adds a urban dictionary widget to google pages with a query of 
 
@@ -24,3 +24,4 @@ email: redify@jajoosam.tech
 twitter: @jajoosam
 
 [Links here](https://notes.pinboard.in/u:jajoosam/ccffda8b6d7a18493c36)
+[More dinos available here](https://github.com/hackclub/dinosaurs)
