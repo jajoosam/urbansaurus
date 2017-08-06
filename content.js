@@ -29,7 +29,6 @@ $.getJSON(searchTerm, function(data) {
     console.log(result.link);
 
     output = '<div class="cardc3"> <div class="containerc3"><h3 class="card-header">Urban word: ' + result.word + '</h5> <p class="card-body"><b>Defination</b></br>' + result.defination + '</br><b>Example</b></br>' + result.example + '</br><b>Referenced with</b></br>' + result.reference + '</p> <div class="card-footer center text-center"><p><a href="' + result.link + '">More results</a></p></div> </div></div>';
-
     $(output).insertAfter("#extabar");
     
 });

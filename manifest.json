@@ -4,7 +4,7 @@
   "name": "Urbansaurus",
   "version": "0.1.0",
   "description": "Urban Definations within Google",
- 
+  "icons": { "128": "icon.png" },
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["jquery-3.2.1.min.js", "content.js"],
