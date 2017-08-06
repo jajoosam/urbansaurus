@@ -10,7 +10,8 @@ If you haven't heard of [Urban Dictionary](http://www.urbandictionary.com/), it'
 
 To install, Download zip > Chrome Settings > Extensions > Enable Developer Mode > Drag and Drop the zip.
 
-Soon to be on the chrome webstore.
+If you want it on the chrome store, send me $5.
+http://jajoosam.tech/bitcoin/
 
 ## Todo
 - Make it work only with the `define` keyword
@@ -24,4 +25,5 @@ email: redify@jajoosam.tech
 twitter: @jajoosam
 
 [Links here](https://notes.pinboard.in/u:jajoosam/ccffda8b6d7a18493c36)
+
 [More dinos available here](https://github.com/hackclub/dinosaurs)
