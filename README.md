@@ -15,6 +15,11 @@ If you haven't heard of [Urban Dictionary](http://www.urbandictionary.com/), it'
 - Go to Settings > Extensions
 - Drag and drop the file
 
+**OR**
+
+
+Download zip > Chrome Settings > Extensions > Enable Developer Mode > Drag and Drop the zip.
+
 If you want it on the chrome store, send me $5 xD
 http://jajoosam.tech/bitcoin/
 
