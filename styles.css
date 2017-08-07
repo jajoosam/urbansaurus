@@ -1,19 +1,28 @@
-.cardc3 {
-    /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 300px;
-    margin: 0 auto;
-    margin-bottom: 25px;
-    margin-top: 25px;
+.demo-card-event.mdl-card {
+  width: 632px;
+  background: #3E4EB8;
+  /*margin-left: 150px;*/
+  display: block;
 }
-
-/* On mouse-over, add a deeper shadow */
-.cardc3:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+.demo-card-event > .mdl-card__actions {
+  border-color: rgba(255, 255, 255, 0.2);
 }
-
-/* Add some padding inside the card container */
-.containerc3 {
-    padding: 2px 16px;
+.demo-card-event > .mdl-card__title {
+  align-items: flex-start;
 }
+.demo-card-event > .mdl-card__title > h4 {
+  margin-top: 0;
+  margin-right: 20px;
+}
+.demo-card-event > .mdl-card__actions {
+  display: flex;
+  box-sizing:border-box;
+  align-items: center;
+}
+.demo-card-event > .mdl-card__actions > .material-icons {
+  padding-right: 10px;
+}
+.demo-card-event > .mdl-card__title,
+.demo-card-event > .mdl-card__actions,
+.demo-card-event > .mdl-card__actions > .mdl-button {
+  color: #fff;
