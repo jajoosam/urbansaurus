@@ -17,7 +17,7 @@ https://chrome.google.com/webstore/detail/urbansaurus/nlfndljabdnkdgdmpfecdpcjok
 Download zip > Chrome Settings > Extensions > Enable Developer Mode > Drag and Drop the zip.
 
 ~~If you want it on the chrome store, send me $5 xD
-http://jajoosam.tech/bitcoin/~~
+http://jajoosam.tech/pay~~
 
 
 ## Todo
