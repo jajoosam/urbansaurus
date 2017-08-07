@@ -1,7 +1,6 @@
 .demo-card-event.mdl-card {
   width: 632px;
-  background: #3E4EB8;
-  /*margin-left: 150px;*/
+  background: #424242;
   display: block;
 }
 .demo-card-event > .mdl-card__actions {
