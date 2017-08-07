@@ -21,7 +21,7 @@ http://jajoosam.tech/bitcoin/
 
 Interested? Want to Collaborate?
 
-email: redify@jajoosam.tech
+email: urbansaurus@jajoosam.tech
 
 twitter: @jajoosam
 
