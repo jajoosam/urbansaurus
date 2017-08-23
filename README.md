@@ -6,7 +6,7 @@ Urbansaurus is a chrome extension I'm building that adds a urban dictionary widg
 
 ![screenshot](screenshot.png)
 
-If you haven't heard of [Urban Dictionary](http://www.urbandictionary.com/), it's a collection of definations created by users, that describe lots of modern word implications.
+If you haven't heard of [Urban Dictionary](http://www.urbandictionary.com/), it's a collection of definitions created by users, that describe lots of modern word implications.
 
 ## Install
 
