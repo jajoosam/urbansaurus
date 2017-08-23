@@ -2,7 +2,7 @@
   "manifest_version": 2,
  
   "name": "Urbansaurus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Urban Definations within Google",
   "icons": { "128": "icon.png" },
   "content_scripts": [{
