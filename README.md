@@ -34,3 +34,8 @@ twitter: @jajoosam
 [Links here](https://notes.pinboard.in/u:jajoosam/ccffda8b6d7a18493c36)
 
 [More dinos available here](https://github.com/hackclub/dinosaurs)
+
+
+## License
+
+All code under http://jajoosam.tech/license
